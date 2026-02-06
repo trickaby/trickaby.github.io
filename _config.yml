@@ -7,6 +7,10 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  hokkaido:
+    output: true
+  spring travels:
+    output: true
 
 permalink: /:path/
 
