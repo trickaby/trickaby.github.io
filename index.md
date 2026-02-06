@@ -8,7 +8,9 @@ title: ""
 
 More structured. Chronological.
 
-<nav class="toc">
+
+
+
 
 <!-- Manual header -->
 <strong>Hokkaido</strong>
@@ -23,7 +25,7 @@ More structured. Chronological.
 <strong>Other Pages</strong>
 
 
-</nav>
+
 
 
 
