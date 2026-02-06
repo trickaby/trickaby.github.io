@@ -13,20 +13,15 @@ More structured. Chronological.
 <!-- Manual header -->
 <strong>Hokkaido</strong>
 <ul>
-[[1-arrival]]
+[Arrival](1-arrival)
 </ul>
 
 <!-- Manual header -->
 <strong>Spring Travels</strong>
-<ul>
-[[Temp]]
-</ul>
 
 <!-- Any other single pages -->
 <strong>Other Pages</strong>
-<ul>
-[[0-pre-travel]]
-</ul>
+
 
 </nav>
 
