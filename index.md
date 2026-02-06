@@ -13,7 +13,7 @@ More structured. Chronological.
 <!-- Manual header -->
 <strong>Hokkaido</strong>
 <ul>
-[Arrival](/hokkaido/1-arrival.md)
+[Arrival](/hokkaido/1-arrival/)
 </ul>
 
 <!-- Manual header -->
