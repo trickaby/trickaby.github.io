@@ -9,40 +9,20 @@ title: ""
 More structured. Chronological.
 
 <nav class="toc">
-{% assign pages = site.pages | where:"nav",true | sort:"path" %}
-
-{% assign current_folder = "" %}
-
-<ul>
-{% for p in pages %}
-  {% assign parts = p.path | split:'/' %}
-  {% assign folder = parts[1] %}
-  {% assign file = parts | last %}
-
-    {% if folder != current_folder %}
-        {% if folder != file %}
-            {% if forloop.index != 1 %}
-                </ul>  <!-- close previous folder list -->
-            {% endif %}
-            <li><strong>{{ folder | replace:'_',' ' }}</strong>
-                <ul>
+{% for folder_name in site.config.collection_order %}
+  {% assign collection = site.collections[folder_name] %}
+  {% if collection %}
+    <strong>{{ folder_name | replace:'_',' ' | capitalize }}</strong>
+    <ul>
+      {% assign sorted = collection.docs | sort: "weight" %}
+      {% for doc in sorted %}
+        {% if doc.basename != "index" %}
+          <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
         {% endif %}
-        {% assign current_folder = folder %}
-    {% endif %}
-
-    {% if parts.size > 1 and file != 'index.md' %}
-        <li><a href="{{ p.url }}">{{ p.title }}</a></li>
-    {% elsif file != 'index.md' %}
-        <li><a href="{{ p.url }}">{{ p.title }}</a></li>
-    {% endif %}
-
-    {% if forloop.last %}
-            </ul>
-        </li>
-    {% endif %}
-
+      {% endfor %}
+    </ul>
+  {% endif %}
 {% endfor %}
-</ul>
 </nav>
 
 

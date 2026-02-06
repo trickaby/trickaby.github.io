@@ -12,6 +12,12 @@ collections:
   spring travels:
     output: true
 
+collection_order:
+  - hokkaido
+  - spring travels
+  - pages
+
+
 permalink: /:path/
 
 exclude:

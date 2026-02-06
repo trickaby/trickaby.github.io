@@ -2,6 +2,7 @@
 layout: default
 title: Pre travel
 nav: true
+weight: 1
 ---
 
 # Pre travel plans
