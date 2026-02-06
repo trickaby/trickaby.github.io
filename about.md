@@ -1,1 +1,1 @@
-Timins world, a place for my thoughts
+Timin's world, a place for my thoughts
