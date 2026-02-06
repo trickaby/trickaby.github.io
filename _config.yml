@@ -9,12 +9,12 @@ collections:
     permalink: /:path/
   hokkaido:
     output: true
-  spring travels:
+  spring_travels:
     output: true
 
 collection_order:
   - hokkaido
-  - spring travels
+  - spring_travels
   - pages
 
 
