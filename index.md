@@ -9,20 +9,11 @@ title: ""
 More structured. Chronological.
 
 
+- [pre travel](/0-pre-travel)
+- Hokkaido
+	- [Arrival](/hokkaido/1-arrival/)
 
 
-
-<!-- Manual header -->
-<strong>Hokkaido</strong>
-
-- [Arrival](/hokkaido/1-arrival/)
-- [[1-arrival]]
-
-
-<!-- Manual header -->
-<strong>Spring Travels</strong>
-<!-- Any other single pages -->
-<strong>Other Pages</strong>
 
 
 
