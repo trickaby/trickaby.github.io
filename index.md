@@ -13,12 +13,11 @@ More structured. Chronological.
 <!-- Manual header -->
 <strong>Hokkaido</strong>
 <ul>
-[Arrival](/hokkaido/1-arrival)
+[Arrival](/hokkaido/1-arrival.md)
 </ul>
 
 <!-- Manual header -->
 <strong>Spring Travels</strong>
-
 <!-- Any other single pages -->
 <strong>Other Pages</strong>
 
