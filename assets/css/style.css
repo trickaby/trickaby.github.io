@@ -7,3 +7,28 @@ img {
   max-width: 600px;
   height: auto;
 }
+
+nav.toc ul {
+  list-style: none;
+  padding-left: 1em;
+  margin: 0;
+}
+
+nav.toc li {
+  margin: 0.2em 0;
+}
+
+nav.toc a {
+  text-decoration: none;
+  color: inherit;
+}
+
+nav.toc a:hover {
+  text-decoration: underline;
+}
+
+nav.toc strong {
+  display: block;
+  margin-top: 0.5em;
+}
+
