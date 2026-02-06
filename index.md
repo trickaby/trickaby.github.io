@@ -13,7 +13,7 @@ More structured. Chronological.
 <!-- Manual header -->
 <strong>Hokkaido</strong>
 <ul>
-[Arrival](1-arrival)
+[Arrival](/hokkaido/1-arrival)
 </ul>
 
 <!-- Manual header -->
