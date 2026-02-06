@@ -12,9 +12,10 @@ More structured. Chronological.
 
 <!-- Manual header -->
 <strong>Hokkaido</strong>
-<ul>
-[Arrival](/hokkaido/1-arrival/)
-</ul>
+
+- [Arrival](/hokkaido/1-arrival/)
+- [[1-arrival]]
+
 
 <!-- Manual header -->
 <strong>Spring Travels</strong>
