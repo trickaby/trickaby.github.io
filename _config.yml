@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
 title: Timin's world
 description: no kids, 3 money
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

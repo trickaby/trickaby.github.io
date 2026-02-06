@@ -1,3 +1,9 @@
+---
+layout: page
+title: Pre travel
+nav: true
+---
+
 # Pre travel plans
 
 ![](fog.jpg)
