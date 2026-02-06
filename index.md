@@ -16,7 +16,7 @@ More structured. Chronological.
 <ul>
 {% for p in pages %}
   {% assign parts = p.path | split:'/' %}
-  {% assign folder = parts[0] %}
+  {% assign folder = parts[1] %}
   {% assign file = parts | last %}
 
     {% if folder != current_folder %}
