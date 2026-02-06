@@ -19,27 +19,27 @@ More structured. Chronological.
   {% assign folder = parts[0] %}
   {% assign file = parts | last %}
 
-{% if folder != current_folder %}
-{% if folder != file %}
-{% if forloop.index != 1 %}
-</ul>  <!-- close previous folder list -->
-{% endif %}
-<li><strong>{{ folder | replace:'_',' ' }}</strong>
-<ul>
-{% endif %}
-{% assign current_folder = folder %}
-{% endif %}
+    {% if folder != current_folder %}
+        {% if folder != file %}
+            {% if forloop.index != 1 %}
+                </ul>  <!-- close previous folder list -->
+            {% endif %}
+            <li><strong>{{ folder | replace:'_',' ' }}</strong>
+                <ul>
+        {% endif %}
+        {% assign current_folder = folder %}
+    {% endif %}
 
-{% if parts.size > 1 and file != 'index.md' %}
-<li><a href="{{ p.url }}">{{ p.title }}</a></li>
-{% elsif file != 'index.md' %}
-<li><a href="{{ p.url }}">{{ p.title }}</a></li>
-{% endif %}
+    {% if parts.size > 1 and file != 'index.md' %}
+        <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+    {% elsif file != 'index.md' %}
+        <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+    {% endif %}
 
-{% if forloop.last %}
-</ul>
-</li>
-{% endif %}
+    {% if forloop.last %}
+            </ul>
+        </li>
+    {% endif %}
 
 {% endfor %}
 </ul>
