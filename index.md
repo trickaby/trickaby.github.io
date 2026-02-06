@@ -9,40 +9,34 @@ title: ""
 More structured. Chronological.
 
 <nav class="toc">
-{% assign pages_nav = site.pages | where:"nav",true | sort:"path" %}
 
-{% assign last_folder = "" %}
-
+<!-- Manual header -->
+<strong>Hokkaido</strong>
 <ul>
-{% for p in pages_nav %}
-  {% assign parts = p.path | split:'/' %}
-  {% assign folder = parts[1] %}
-  {% assign file = parts | last %}
-
-    {% if folder != last_folder and folder != "" %}
-    {% if forloop.index != 1 %}
-    </ul></li>
-    {% endif %}
-    <li>
-    {% assign folder_index = site.pages | where:"path","_pages/" | where:"basename",folder | first %}
-    {% if folder_index %}
-    <strong><a href="{{ folder_index.url }}">{{ folder | replace:'_',' ' | capitalize }}</a></strong>
-    {% else %}
-    <strong>{{ folder | replace:'_',' ' | capitalize }}</strong>
-    {% endif %}
-    <ul>
-    {% assign last_folder = folder %}
-    {% endif %}
-    
-    {% if file != "index.md" %}
-    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
-    {% endif %}
-    
-    {% if forloop.last %}
-    </ul></li>
-    {% endif %}
+{% assign hokkaido_pages = site.pages | where_exp:"p","p.path contains '_pages/hokkaido/'" | sort: "weight" %}
+{% for p in hokkaido_pages %}
+  <li><a href="{{ p.url }}">{{ p.title }}</a></li>
 {% endfor %}
 </ul>
+
+<!-- Manual header -->
+<strong>Spring Travels</strong>
+<ul>
+{% assign spring_pages = site.pages | where_exp:"p","p.path contains '_pages/spring_travels/'" | sort: "weight" %}
+{% for p in spring_pages %}
+  <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+{% endfor %}
+</ul>
+
+<!-- Any other single pages -->
+<strong>Other Pages</strong>
+<ul>
+{% assign other_pages = site.pages | where_exp:"p","p.path contains '_pages/' and p.path contains '/' == false" | sort:"weight" %}
+{% for p in other_pages %}
+  <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+{% endfor %}
+</ul>
+
 </nav>
 
 
