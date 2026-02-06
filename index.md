@@ -9,29 +9,42 @@ title: ""
 More structured. Chronological.
 
 <nav class="toc">
-{% for folder_name in site.config.collection_order %}
-  {% assign collection = site.collections[folder_name] %}
-  {% if collection %}
-    {% comment %} Determine folder header title {% endcomment %}
-    {% assign index_doc = collection.docs | where:"basename","index" | first %}
-    {% if index_doc %}
-      <strong><a href="{{ index_doc.url }}">{{ index_doc.title }}</a></strong>
-    {% else %}
-      <strong>{{ folder_name | replace:'_',' ' | capitalize }}</strong>
+{% assign pages_nav = site.pages | where:"nav",true | sort:"path" %}
+
+{% assign last_folder = "" %}
+
+<ul>
+{% for p in pages_nav %}
+  {% assign parts = p.path | split:'/' %}
+  {% assign folder = parts[1] %}
+  {% assign file = parts | last %}
+
+    {% if folder != last_folder and folder != "" %}
+    {% if forloop.index != 1 %}
+    </ul></li>
     {% endif %}
-
+    <li>
+    {% assign folder_index = site.pages | where:"path","_pages/" | where:"basename",folder | first %}
+    {% if folder_index %}
+    <strong><a href="{{ folder_index.url }}">{{ folder | replace:'_',' ' | capitalize }}</a></strong>
+    {% else %}
+    <strong>{{ folder | replace:'_',' ' | capitalize }}</strong>
+    {% endif %}
     <ul>
-      {% assign sorted_docs = collection.docs | sort: "weight" %}
-      {% for doc in sorted_docs %}
-        {% if doc.basename != "index" %}
-          <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-
-{% endif %}
+    {% assign last_folder = folder %}
+    {% endif %}
+    
+    {% if file != "index.md" %}
+    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+    {% endif %}
+    
+    {% if forloop.last %}
+    </ul></li>
+    {% endif %}
 {% endfor %}
+</ul>
 </nav>
+
 
 
 
