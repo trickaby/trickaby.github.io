@@ -1,1 +1,17 @@
-<link rel="stylesheet" href="/assets/css/style.css">
+<head>
+    <meta charset="UTF-8">
+
+    <title>
+        {% if page.title and page.title != "" %}
+        {{ page.title }} · {{ site.title }}
+        {% else %}
+        {{ site.title }}
+        {% endif %}
+    </title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}">
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
