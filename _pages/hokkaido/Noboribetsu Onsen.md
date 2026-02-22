@@ -15,7 +15,7 @@ The onsen itself is very pleasant if you like that sort of thing. No photos or v
 
 Temperatures this week have ranged from -6 to 7°C, but it's felt warmer. So far I haven't needed my big coat, making do with a thermal top and a couple of fleeces. There was one day where there were 40mph winds but I just stayed inside that day, seemed like the sensible thing to do.
 
-Food has been good too, I haven't been particularly adventurous so far though. Have been leaning heavily into the [hotel breakfast](/_posts/2026-02-17-Natto), and a few snacks during the day courtesy of the local 7-11 and protein shakes. People reading this my wonder why I'm supplementing protein when there's so much food available for me to try. There's a few reasons:
+Food has been good too, I haven't been particularly adventurous so far though. Have been leaning heavily into the [hotel breakfast](/2026-02-17-Natto), and a few snacks during the day courtesy of the local 7-11 and protein shakes. People reading this my wonder why I'm supplementing protein when there's so much food available for me to try. There's a few reasons:
 1. Convenience. I'm not actually that motivated to go outside much, partly because of jetlag lingering, and partly because of the weather and having to put on all my layers.
 2. Health buffer - I'm here for ages, so I can't really get away with a 'holiday diet' the whole time. This way I can set a bit of a floor for how much protein I'm getting in, and hopefully limit muscle loss and fat gain. Once I settle in Tokyo the idea is for me to continue improving my fitness.
 3. Enjoyment - You know how when you have too many treats it stops being enjoyable? If I maintain a reasonably healthy base, I enjoy it more when I do go out to eat.
