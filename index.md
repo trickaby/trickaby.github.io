@@ -24,7 +24,7 @@ More structured. Chronological.
 - Hokkaido
 	- [Arrival](/hokkaido/1-arrival/)
 	- [Noboribetsu](/hokkaido/Noboribetsu Onsen)
-	- [Onsen 2](/Hokkaido/Onsen 2)
+	- [Onsen 2](/hokkaido/Onsen 2)
 
 
 <hr>
