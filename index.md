@@ -27,7 +27,7 @@ More structured. Chronological.
 	- [Onsen 2](/hokkaido/Onsen 2)
 - Spring travels
 	- Kyoto
-		- [Start](/spring_travels/start)
+		- [Start](/spring_travels/Start)
 		- [Day 1](spring_travels/Day 1 Kyoto)
 
 
