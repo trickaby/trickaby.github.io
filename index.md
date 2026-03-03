@@ -24,6 +24,10 @@ More structured. Chronological.
 - Hokkaido
 	- [Arrival](/hokkaido/1-arrival/)
 	- [Noboribetsu](/hokkaido/Noboribetsu Onsen)
+- Spring travels
+	- Kyoto
+		- [Start](/spring_travels/start)
+		- [Day 1](spring_travels/Day 1 Kyoto)
 
 
 <hr>

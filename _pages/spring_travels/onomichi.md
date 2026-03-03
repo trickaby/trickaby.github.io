@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pre travel
+title: Onomichi
 nav: true
 weight: 3
 ---
