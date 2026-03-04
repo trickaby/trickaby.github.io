@@ -1,5 +1,6 @@
 ---
 title: "Hokkaido"
+layout: default
 permalink: /hokkaido/
 weight: 1
 ---
