@@ -21,7 +21,7 @@ More structured. Chronological.
 
 
 - [pre travel](/0-pre-travel)
-- Hokkaido
+- [Hokkaido](/hokkaido)
 	- [Arrival](/hokkaido/1-arrival/)
 	- [Noboribetsu](/hokkaido/Noboribetsu Onsen)
 	- [Onsen 2](/hokkaido/Onsen 2)
