@@ -20,3 +20,5 @@ After temple was a temple. This time Daitoku-ji. It was a lot quieter, and actua
 After temple we went for lunch - ramen! Finally! It was really nice, just a random high street ramen-ya that the locals would frequent. We got soy ramen with a bit of fried chicken and rice on the side. The noodles were really good, as well as the broth. Sasuga. It also came with a chill/garlic sauce on the table, which gave a nice burst of flavour too. Although we ate a lot it didn't fell heavy.
 
 Headed back home after that, wanting to be careful not to exhaust ourselves too much too early. still a decent amount of walking though, 9 miles today and 13 yesterday.
+
+I have to do a placement test for Japanese language school in Tokyo, so I might do that this evening, once I've finished writing this, and done my daily study, and planned the next day. If I'm lucky I'll be able to watch some cartoons to finish the day.
