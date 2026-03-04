@@ -28,8 +28,8 @@ More structured. Chronological.
 - Spring travels
 	- Kyoto
 		- [Start](/spring_travels/Start)
-		- [Day 1](spring_travels/Day 1 Kyoto)
-		- [Day 2](spring_travels/Day 2 Kyoto)
+		- [Day 1](spring_travels/Kyoto/Day 1 Kyoto)
+		- [Day 2](spring_travels/Kyoto/Day 2 Kyoto)
 
 
 <hr>
