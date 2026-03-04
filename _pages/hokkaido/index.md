@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Hokkaido
-nav: true
-weight: 0
+title: "Hokkaido"
+permalink: /hokkaido/
+weight: 1
 ---
 
 Hokkaido is in the north of Japan. It's very cold up there in winter
