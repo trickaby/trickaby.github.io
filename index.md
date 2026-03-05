@@ -30,6 +30,7 @@ More structured. Chronological.
 		- [Start](/spring_travels/Start)
 		- [Day 1](spring_travels/Kyoto/Day 1 Kyoto)
 		- [Day 2](spring_travels/Kyoto/Day 2 Kyoto)
+		- [Day 3](spring_travels/Kyoto/Day 3 Kyoto)
 
 
 <hr>
