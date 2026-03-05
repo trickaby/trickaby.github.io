@@ -11,5 +11,10 @@ The villa has to be booked in advance to guarantee a place, as they only run gui
 
 After lunch we went back for our tour. The grounds were really nice and well maintained. The sun had come out too which makes everything look nicer. We were taken around some of the houses, before finishing with a walk around a lake. All of it very pleasant and it made for good photos.
 
-We stopped by a bakery to pick up sandwiches for the evening, before making our way home for the evening.
+We stopped by a bakery to pick up sandwiches, before making our way home for the evening.
 
+In the evening there was a bit of faff with getting some laundry done, whenever I went downstairs it was in use. Mum had better luck though so we got that sorted. I was grumpy and tired so went to 7/11 and got some milk and fried chicken.
+
+Rest of the evening was spent relaxing and eating food and drinking water.
+
+Packing up in the morning for a 10am checkout, then heading to Osaka.
