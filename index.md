@@ -33,6 +33,7 @@ More structured. Chronological.
 		- [Day 3](spring_travels/Kyoto/Day 3 Kyoto)
 	- Osaka
 		- [To Osaka](/spring_travels/Osaka/To Osaka)
+		- [Day 2](/spring_travels/Osaka/Osaka day 2)
 
 
 <hr>
