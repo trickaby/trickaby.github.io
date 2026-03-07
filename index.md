@@ -31,6 +31,8 @@ More structured. Chronological.
 		- [Day 1](spring_travels/Kyoto/Day 1 Kyoto)
 		- [Day 2](spring_travels/Kyoto/Day 2 Kyoto)
 		- [Day 3](spring_travels/Kyoto/Day 3 Kyoto)
+	- Osaka
+		- [To Osaka](/spring_travels/Osaka/To Osaka)
 
 
 <hr>
