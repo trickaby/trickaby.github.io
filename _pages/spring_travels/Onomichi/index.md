@@ -1,7 +1,7 @@
 ---
 title: "Onomichi"
 layout: default
-permalink: /Onomichi/
+permalink: /spring_travels/Onomichi/
 weight: 1
 ---
 

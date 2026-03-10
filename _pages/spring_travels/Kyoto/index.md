@@ -1,7 +1,7 @@
 ---
 title: "Kyoto"
 layout: default
-permalink: /Kyoto/
+permalink: /spring_travels/Kyoto/
 weight: 1
 ---
 

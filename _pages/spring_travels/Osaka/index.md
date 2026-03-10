@@ -1,7 +1,7 @@
 ---
 title: "Osaka"
 layout: default
-permalink: /Osaka/
+permalink: /spring_travels/Osaka/
 weight: 1
 ---
 
