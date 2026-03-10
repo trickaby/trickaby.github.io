@@ -2,7 +2,7 @@
 layout: default
 title: Day 2
 nav: true
-weight: 3
+weight: 4
 ---
 
 For our last full day in Osaka, we went to not Osaka. Kobe is only an hour or so away by train, so we thought we might as well head over. It takes less time than it does for me to get into work...

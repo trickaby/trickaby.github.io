@@ -34,6 +34,7 @@ More structured. Chronological.
 	- [Osaka](/spring_travels/Osaka)
 		- [To Osaka](/spring_travels/Osaka/To Osaka)
 		- [Day 2](/spring_travels/Osaka/Osaka day 2)
+		- [Day 3](/spring_travels/Osaka/Osaka day 3)
 		- [Day trip to Kobe!](/spring_travels/Osaka/Day trip to Kobe!)
 	- [Onomichi](/spring_travels/Onomichi)
 		- [To Onomichi](/spring_travels/Onomichi/To Onomichi)
