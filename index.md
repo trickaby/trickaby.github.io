@@ -26,14 +26,17 @@ More structured. Chronological.
 	- [Noboribetsu](/hokkaido/Noboribetsu Onsen)
 	- [Onsen 2](/hokkaido/Onsen 2)
 - Spring travels
-	- Kyoto
+	- [Kyoto](/spring_travels/Kyoto)
 		- [Start](/spring_travels/Start)
 		- [Day 1](spring_travels/Kyoto/Day 1 Kyoto)
 		- [Day 2](spring_travels/Kyoto/Day 2 Kyoto)
 		- [Day 3](spring_travels/Kyoto/Day 3 Kyoto)
-	- Osaka
+	- [Osaka](/spring_travels/Osaka)
 		- [To Osaka](/spring_travels/Osaka/To Osaka)
 		- [Day 2](/spring_travels/Osaka/Osaka day 2)
+		- [Day trip to Kobe!](/spring_travels/Osaka/Day trip to Kobe!)
+	- [Onomichi](/spring_travels/Onomichi)
+		- [To Onomichi](spring_travels/Onomichi/To Onomichi)
 
 
 <hr>

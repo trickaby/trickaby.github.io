@@ -1,9 +1,10 @@
 ---
+title: "Onomichi"
 layout: default
-title: Onomichi
-nav: true
-weight: 3
+permalink: /Onomichi/
+weight: 1
 ---
+
 
 ## Onomichi
 
