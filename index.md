@@ -27,7 +27,7 @@ More structured. Chronological.
 	- [Noboribetsu](/hokkaido/Noboribetsu Onsen)
 	- [Onsen 2](/hokkaido/Onsen 2)
 - Spring travels
-	 [Kyoto](/spring_travels/Kyoto)
+	- [Kyoto](/spring_travels/Kyoto)
 		- [Start](/spring_travels/Start)
 		- [Day 1](spring_travels/Kyoto/Day 1 Kyoto)
 		- [Day 2](spring_travels/Kyoto/Day 2 Kyoto)
