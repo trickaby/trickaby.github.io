@@ -40,7 +40,7 @@ More structured. Chronological.
 	- [Onomichi](/spring_travels/Onomichi)
 		- [To Onomichi](/spring_travels/Onomichi/To Onomichi)
 		- [Cycling the Shimanami Kaido](/spring_travels/Onomichi/Cycling the Shimanami Kaido)
-
+		- [Returning from Imabari](spring_travels/Onomichi/Returning from Imabari)
 
 <hr>
 
