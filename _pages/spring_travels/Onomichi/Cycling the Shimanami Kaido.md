@@ -29,7 +29,7 @@ Then I started cycling, followed a group of experienced riders for about as long
 
 ## Early stages
 
-The first 15km went by fairly swiftly, as one might expect with fresh legs and blissful ignorance. After that it was a bit of a struggle. The views were incredible though. I lucked out with the weather, blue skies, cool temperatures, not too much wind. Cycling along the shores. Couldn't ask for better conditions.
+The first 25km went by fairly swiftly, as one might expect with fresh legs and blissful ignorance. After that it was a bit of a struggle. The views were incredible though. I lucked out with the weather, blue skies, cool temperatures, not too much wind. Cycling along the shores. Couldn't ask for better conditions.
 
 One of the big milestone in this ride is when you reach a bridge. You are given a gentle, but still challenging, climb up to each bridge, then ride across and back down to the path on the other side. The first climb was tough but fun, and gave a feeling of satisfaction at the top. Also nice views.
 
