@@ -31,4 +31,13 @@ The owner was very friendly and chatty, the sort of person everyone says to expe
 
 We were taken to our rooms, thankfully we could go in before our 3pm check-in, having arrived around 1.
 
-Overall the journey, which I was pretty worried about, was very smooth. Weirdly the only thing that could have gone wrong was the train being "unreliable", which is more the girl who didn't mind the gap's fault than the train's.
+Overall the journey, which I was pretty worried about, was very smooth. Weirdly the only thing that nearly went wrong was the train being "unreliable", which is more the girl who didn't mind the gap's fault than the train's.
+
+After catching up on writing, we headed down to the onsen. Mum's first rodeo, not mine. We headed off to our respective baths, prepared with towels and soaps. Both of us got a bit of a chat with locals, neither of us understood much of what was being said. It's nice here because people don't really speak English aside from what they probably learned in school 40 years ago. It forced me to dust of my Japanese again, albeit in very broken sentences. I probably haven't done as well with the language as I would have liked, but when everyting is so new it's tough on the brain to also generate Japanese language sentences. I tried my best though.
+
+We reconvened after an hour and a half or so, both feeling quite refreshed. The onsen is a bit smaller and less industrial feeling than the one in Hokkaido, which is neither good nor bad in my opinion, just different. Maybe I enjoyed this one more, as I'm just slightly more relaxed now that I'm settled in Japan. Maybe because this place is a little less fancy, which is more to my preference. Maybe it was nice just having a chat with a stranger.
+
+After onsen we had a call with my brother. It's mother's day so it was good to catch up. Mum clearly wanted to stop talking to us and get dinner, so after we hung up we headed out to the local restaurant - for sushi! It was really good, I'll share a photo of it at some point. Popped into 7-11 for tomorrow's breakfast, then back home for the night. 
+
+Our ryokan doesn't seem to have much in the way of eating and drinking spaces, unless it does and we just haven't found it. But never mind, I'm happy having stuff from the shops to a certain extent. Mum will definitely complain though if she doesn't get her tea. Will figure it out tomorrow
+

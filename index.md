@@ -44,6 +44,8 @@ More structured. Chronological.
 	- [Hiroshima](/spring_travels/Hiroshima)
 		- [To Hiroshima](/spring_travels/Hiroshima/To Hiroshima)
 		- [Day 2](/spring_travels/Hiroshima/Hiroshima day 2)
+	- [Ube](/spring_travels/Ube)
+		- [To Ube](/spring_travels/Ube/To Ube)
 
 <hr>
 
