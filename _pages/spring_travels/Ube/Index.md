@@ -7,4 +7,3 @@ permalink: /spring_travels/Ube
 
 ## Ube
 
-[Photos]()
