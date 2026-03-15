@@ -41,6 +41,9 @@ More structured. Chronological.
 		- [To Onomichi](/spring_travels/Onomichi/To Onomichi)
 		- [Cycling the Shimanami Kaido](/spring_travels/Onomichi/Cycling the Shimanami Kaido)
 		- [Returning from Imabari](spring_travels/Onomichi/Returning from Imabari)
+	- [Hiroshima](/spring_travels/Hiroshima)
+		- [To Hiroshima](/spring_travels/Hiroshima/To Hiroshima)
+		- [Day 2](/spring_travels/Hiroshima/Hiroshima day 2)
 
 <hr>
 
