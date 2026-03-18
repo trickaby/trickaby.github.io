@@ -5,7 +5,7 @@ nav: true
 weight: 1
 ---
 
-As promised, we were given a lift to Shin-Yokohama, which was a bit further away than the local Tokiwa station, but it saved us having to take a slow and infrequent local train from Tokiwa to Shin-Yokohama.
+As promised, we were given a lift to Shin-Yamaguchi, which was a bit further away than the local Tokiwa station, but it saved us having to take a slow and infrequent local train from Tokiwa to Shin-Yamaguchi.
 
 We got the 11:11 to Tokyo, which was a roughly 4 hour journey to get us into Yokohama. On the way we spotted Fuji from the train window, it was pretty amazing even from our poor viewpoint. Train journey passed by without any major event, and we checked into our accommodation in Chinatown. 
 
