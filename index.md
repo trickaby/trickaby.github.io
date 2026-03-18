@@ -20,8 +20,11 @@ Those familiar with my work as a photographer will know they won't be worth seei
 More structured. Chronological.
 
 
+#### [Photos](/Photos)
+
+<hr>
+
 - [pre travel](/0-pre-travel)
-- [Photos](/Photos)
 - [Hokkaido](/hokkaido)
 	- [Arrival](/hokkaido/1-arrival/)
 	- [Noboribetsu](/hokkaido/Noboribetsu Onsen)
