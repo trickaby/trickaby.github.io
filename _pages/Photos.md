@@ -9,3 +9,4 @@ title: Photos
 - [Onomichi](https://photos.app.goo.gl/o1EwAaEThztTeTnF8)
 - [Hiroshima](https://photos.app.goo.gl/w7VE19SewL1qRL867)
 - [Ube](https://photos.app.goo.gl/fPrUo74HyuxNUGoy6)
+- [Yokohama](https://photos.app.goo.gl/ASrcRrdt9tmwXmU68)
