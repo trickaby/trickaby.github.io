@@ -54,7 +54,7 @@ More structured. Chronological.
 	- [Yokohama](/spring_travels/Yokohama)
 		- [To Yokohama](/spring_travels/Yokohama/To Yokohama)
 		- [Day 2](/spring_travels/Yokohama/Yokohama day 2)
-	￼- [Tokyo](/spring_travels/Tokyo)
+	- [Tokyo](/spring_travels/Tokyo)
 		- [To Tokyo](spring_travels/Tokyo/To Tokyo)
 		- [Day 2](/spring_travels/Tokyo/Tokyo day 2)
 		- [Day 3](/spring_travels/Tokyo/Tokyo day 3)
