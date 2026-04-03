@@ -67,6 +67,7 @@ More structured. Chronological.
 		- [Day 10](/spring_travels/Tokyo/Tokyo day 10)
 		- [Day 11](/spring_travels/Tokyo/Tokyo day 11)
 		- [Day 12](/spring_travels/Tokyo/Tokyo day 12)
+		- [Day 13 - final day of spring travels!](/spring_travels/Tokyo/Tokyo day 13)
 
 
 <hr>

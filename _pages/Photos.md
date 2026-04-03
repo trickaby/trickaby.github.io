@@ -10,3 +10,4 @@ title: Photos
 - [Hiroshima](https://photos.app.goo.gl/w7VE19SewL1qRL867)
 - [Ube](https://photos.app.goo.gl/fPrUo74HyuxNUGoy6)
 - [Yokohama](https://photos.app.goo.gl/ASrcRrdt9tmwXmU68)
+- [Tokyo](https://photos.app.goo.gl/rqWSfeuAJBTiwk9G8)
