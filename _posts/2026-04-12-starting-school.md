@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Starting language school
+author: me
 ---
 
 Apologies haven't written anything in a while.
