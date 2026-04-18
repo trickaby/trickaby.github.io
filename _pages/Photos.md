@@ -11,3 +11,5 @@ title: Photos
 - [Ube](https://photos.app.goo.gl/fPrUo74HyuxNUGoy6)
 - [Yokohama](https://photos.app.goo.gl/ASrcRrdt9tmwXmU68)
 - [Tokyo](https://photos.app.goo.gl/rqWSfeuAJBTiwk9G8)
+
+[Best of Japan](https://photos.app.goo.gl/Gkw1JM6b9AwPE9856)
