@@ -7,17 +7,10 @@ collections:
   pages:
     output: true
     permalink: /:path/
-  hokkaido:
+  music:
     output: true
-  spring_travels:
-    output: true
-
-collection_order:
-  - hokkaido
-  - spring_travels
-  - pages
-
-
+    permalink: /music/:name/
+  
 permalink: /:path/
 
 exclude:
