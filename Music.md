@@ -12,6 +12,9 @@ If anything catches your ear, please do let me know. I tend to feel like I force
 
 For some reason the links are broken. I'll fix it soon
 
+
+Music count: {{ site.music | size }}
+
 <ul>
 {% for post in site.music%}
   <li>
