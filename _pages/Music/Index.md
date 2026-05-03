@@ -1,7 +1,7 @@
 ---
-permalink: /music
 layout: defult
 title: Music
+permalink: /music
 ---
 
 I've been meaning to do something music related. Initially I thought I'd do a little song of the day/week to give a little indication of what I'm listening to and what I like. It didn't end up happening but I'd still like to do something. I'll try doing a playlist of sorts, with a little post attached detailing why I like it. I'll just post youtube links, I don't use spotify (and neither should you!).
