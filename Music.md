@@ -17,3 +17,7 @@ If anything catches your ear, please do let me know. I tend to feel like I force
   </li>
 {% endfor %}
 </ul>
+
+{% for track in site.music %}
+- {{ track.title }} → {{ track.url }}
+{% endfor %}
