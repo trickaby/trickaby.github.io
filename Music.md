@@ -11,7 +11,7 @@ I'm not sure if I should separate them into separate posts, or just make this on
 If anything catches your ear, please do let me know. I tend to feel like I force my taste in music onto people a lot, so it would be nice if some stuff is actually appreciated and enjoyed.
 
 <ul>
-{% for post in site.pages.Music %}
+{% for post in site.music%}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
