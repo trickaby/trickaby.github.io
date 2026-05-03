@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Sleep for days
 permalink: /music/2026-05-04-1-sleep-for-days/
 author: Jackie Evans
