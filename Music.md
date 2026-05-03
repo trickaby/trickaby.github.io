@@ -17,3 +17,9 @@ If anything catches your ear, please do let me know. I tend to feel like I force
   </li>
 {% endfor %}
 </ul>
+
+{% assign music_pages = site.pages | where_exp: "page", "page.path contains '_music/'" %}
+
+{% for page in music_pages %}
+- [{{ page.title }}]({{ page.url }})
+{% endfor %}
