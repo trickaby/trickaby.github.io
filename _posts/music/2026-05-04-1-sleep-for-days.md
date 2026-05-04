@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: post
 title: Sleep for days
 permalink: /music/2026-05-04-1-sleep-for-days
+author: Jackie Evans
 ---
 [Video](https://youtu.be/d_tae68PbZY?si=fgVrFUGXTXUFWVak)
 
