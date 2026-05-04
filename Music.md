@@ -14,7 +14,6 @@ If anything catches your ear, please do let me know. I tend to feel like I force
 <ul>
 {% assign music_posts = site.posts
   | where_exp: "post", "post.path contains '_posts/music/'"
-  | sort: "title"
   | reverse %}
 
 {% for post in music_posts %}
