@@ -16,16 +16,12 @@ For some reason the links are broken. I'll fix it soon
 Music count: {{ site.music | size }}
 
 <ul>
-{% for post in site.music%}
+{% assign music_posts = site.posts | where_exp: "post", "post.path contains '_posts/music/'" %}
+
+{% for post in music_posts%}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
 {% endfor %}
 </ul>
 
-
-{% assign music_posts = site.posts | where_exp: "post", "post.path contains '_posts/music/'" %}
-
-{% for post in music_posts %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
