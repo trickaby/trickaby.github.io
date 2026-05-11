@@ -9,6 +9,8 @@ collections:
     permalink: /:path/
   music:
     output: true
+  main:
+    output: true
   
 permalink: /:path/
 
