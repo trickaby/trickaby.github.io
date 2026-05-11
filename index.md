@@ -34,6 +34,7 @@ More structured. Chronological.
 <hr>
 
 ## Posts
+
 <ul>
 {% assign main_posts = site.posts
   | where_exp: "post", "post.path contains '_posts/main/'"
