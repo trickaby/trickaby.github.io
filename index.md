@@ -34,15 +34,18 @@ More structured. Chronological.
 <hr>
 
 ## Posts
-
 <ul>
-{% for post in site.posts %}
+{% assign main_posts = site.posts
+  | where_exp: "post", "post.path contains '_posts/main/'"
+  | reverse %}
+
+{% for post in music_posts %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
 {% endfor %}
 </ul>
 
-<hr>
+
 
 [Music](/music)

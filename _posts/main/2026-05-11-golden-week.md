@@ -17,3 +17,5 @@ The weekend was also pretty uneventful. I didn't have a very good Saturday, just
 I also made a fun music discovery, which I'll write about, but in the music section. It's not really relevant or interesting.
 
 In general I've been feeling less motivated to travel around. I think it's my default state, wanting to just stay in all the time. There's a healthy balance to be struck for sure, and I'm probably straying away from that balance a bit. Maybe over the weekend or something I'll plan a little day out somewhere. 
+
+Update: no one told me my post filter broke when I added the music section! They were supposed to be separate. They should be fixed now. Sorry. And also hey why didn't you tell me.
