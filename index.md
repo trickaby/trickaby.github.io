@@ -39,7 +39,7 @@ More structured. Chronological.
   | where_exp: "post", "post.path contains '_posts/main/'"
   | reverse %}
 
-{% for post in music_posts %}
+{% for post in main_posts %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
