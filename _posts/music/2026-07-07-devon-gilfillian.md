@@ -13,7 +13,7 @@ Anyway back to the album. Weirdly I really like the album cover and I think it p
 
 I'd say the majority of the music I listen to is fairly upbeat, lively or relaxing. A lot of this album is a little more sombre and melancholy, which is cool. It's nice to have some variety. Starting with *Time*, which is one such song. I'd say it's a sad song without being depressing.
 
-Next straight into the more upbeat Moonflower. It starts off well, and I quite like the prechorus but I feel the moonflower climax of the chorus doesn't quite hit for me. Nevertheless a decent change of pace.
+Next straight into the more upbeat *Moonflower*. It starts off well, and I quite like the prechorus but I feel the moonflower climax of the chorus doesn't quite hit for me. Nevertheless a decent change of pace.
 
 I really like the song that come next, *Hold on (Hourglass)*. Feels *very* western, but in a modern way. It's fun. It feels so much like it's from a cowboy movie that I wouldn't be surprised if it's a cover, or if it just sounds like one specific song. For now I'll just be impressed. The guitar playing is really good too.
 
