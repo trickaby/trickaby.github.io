@@ -34,6 +34,4 @@ Another reason is that I'm way more comfortable writing about these things than 
 
 I'm also increasingly grateful for some of these lowlights in life, as well as the highlights. I think we learn a lot from them, I certainly have over the last week. They can also give us a bit of perspective. For me, in this case it showed that I'm pushing myself out of my comfort zone. On this occasion maybe a bit far, but overall I think it's good.
 
-Another random point, maybe this is where I lose the reader and you'll all think I'm a nut, but looking back I found the experience really cool. Like the actual experience of having a panic attack. Obviously it was really scary at the time but your body does some really weird things. Apparently if you get good at meditating you can get similar sensations, but I don't do it often enough to get that far. But for example I got some tingling sensation in my face and hands as if they were on fire. But going through it I can kinda see why some people believe in spirits and souls and stuff, cos a lot of it just felt very weird and supernatural.
-
 Anyway, I hope everyone's doing well, and can enjoy the 20 minutes of peace while there's no football on. I'm back in London end of October
