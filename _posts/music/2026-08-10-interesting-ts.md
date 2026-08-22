@@ -13,3 +13,5 @@ Two door cinema club. They're saved in my brain as one of those Fifa song bands.
 Pokemon music, this time from Black/White, which I think has some of the best music in the series. Anyway, here's the theme from [Icirrus City](https://youtu.be/_vWKJTvCDSU?is=5iNLuPs-IOQ4ru9V). It's in 6/8 time, with a few seaky 5/8 bars thrown in too! Wow what a change-up. 
 
 Hopefully this list grows over time, maybe there's some more I've forgotten about.
+
+There's also some more new music that's come out, so hopefully I'll find time to write some more of these.
