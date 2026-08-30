@@ -1,6 +1,6 @@
 ---
 author: Timin
-layout post
+layout: post
 title: Interesting time signatures
 ---
 
