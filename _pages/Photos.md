@@ -12,5 +12,7 @@ title: Photos
 - [Yokohama](https://photos.app.goo.gl/ASrcRrdt9tmwXmU68)
 - [Tokyo](https://photos.app.goo.gl/rqWSfeuAJBTiwk9G8)
 - [Tokyo as a student](https://photos.app.goo.gl/VAjDeAJU7nUhAbcTA)
+- [Tokyo as a student](https://photos.app.goo.gl/mnK1xHByzETPqFkq5)
+- [Kōchi](https://photos.app.goo.gl/QqLr6dnDG1kqSET16)
 
 [Best of Japan](https://photos.app.goo.gl/Gkw1JM6b9AwPE9856)
