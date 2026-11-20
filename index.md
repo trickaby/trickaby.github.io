@@ -15,7 +15,7 @@ I've got my Japan stuff in a separate section now. Also a new hobby section.
 
 
 
-#### [Photo albums](/Photos)
+**[Photo albums](/Photos)**
 
 <hr>
 
@@ -24,5 +24,5 @@ I've got my Japan stuff in a separate section now. Also a new hobby section.
 
 <hr>
 
-[Hobby world](/hobby-world)
+**[Hobby world](/hobby-world)**
 
