@@ -14,6 +14,9 @@ title: Photos
 
 ## Posts
 
+
+This is everything post-spring travels. From April onwards, where I spent 6 months studying Japanese in Tokyo. Then a month or so of me being a tourist again.
+
 <ul>
 {% assign japan_posts = site.posts
   | where_exp: "post", "post.path contains '_posts/japan/'"
